@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://[USERNAME-GITHUB-ANDA].github.io/ishma-interior/sitemap.xml
